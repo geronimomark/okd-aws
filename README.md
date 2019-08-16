@@ -1,2 +1,2 @@
 # okd-aws
-OKD in AWS
+OKD in AWS POC
